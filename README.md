@@ -35,7 +35,7 @@ I specialize in the full development lifecycle — from initial architectural pl
   <img src="https://cdn.simpleicons.org/nodedotjs" height="48" title="Node.js — JavaScript runtime built on V8" />
   <img src="https://cdn.simpleicons.org/nestjs" height="48" title="NestJS — Progressive Node.js framework for scalable apps" />
   <img src="https://cdn.simpleicons.org/express/000000/ffffff" height="48" title="Express — Minimal and flexible Node.js web framework" />
-  <img src="https://cdn.simpleicons.org/postgresql" height="48" title="PostgreSQL — Advanced open-source relational database" />
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="48" title="PostgreSQL — Advanced open-source relational database" />
   <img src="https://cdn.simpleicons.org/mongodb" height="48" title="MongoDB — Document-oriented NoSQL database" />
   <img src="https://cdn.simpleicons.org/mysql" height="48" title="MySQL — Popular open-source relational database" />
   <img src="https://cdn.simpleicons.org/docker" height="48" title="Docker — Containerization platform for portable apps" />
