@@ -52,3 +52,6 @@ I specialize in the full development lifecycle—from initial architectural plan
 ### 📫 How to reach me:
 *   **LinkedIn:** [[Твоє посилання]](https://www.linkedin.com/in/serhii-korkishko-8a3a2048/)
 *   **Email:** [sergey.korkishko@sigmalion.com.ua]
+*   **Portfolio / Website** [https://sigmalion.com.ua/]
+
+
