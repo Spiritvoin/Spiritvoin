@@ -33,7 +33,6 @@ I specialize in the full development lifecycle — from initial architectural pl
   <img src="https://cdn.simpleicons.org/mui" height="48" title="Material UI — React component library by Google design" />
   <img src="https://cdn.simpleicons.org/tailwindcss" height="48" title="Tailwind CSS — Utility-first CSS framework" />
   <img src="https://cdn.simpleicons.org/nodedotjs" height="48" title="Node.js — JavaScript runtime built on V8" />
-  <img src="https://cdn.simpleicons.org/nestjs" height="48" title="NestJS — Progressive Node.js framework for scalable apps" />
   <img src="https://cdn.simpleicons.org/express/000000/ffffff" height="48" title="Express — Minimal and flexible Node.js web framework" />
   <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="48" title="PostgreSQL — Advanced open-source relational database" />
   <img src="https://cdn.simpleicons.org/mongodb" height="48" title="MongoDB — Document-oriented NoSQL database" />
@@ -51,15 +50,15 @@ I specialize in the full development lifecycle — from initial architectural pl
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Spiritvoin/Spiritvoin/summary-cards/profile-summary-card-output/tokyonight/0-profile-details.svg" />
+  <img src="https://raw.githubusercontent.com/Spiritvoin/Spiritvoin/main/profile-summary-card-output/tokyonight/0-profile-details.svg" />
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Spiritvoin/Spiritvoin/summary-cards/profile-summary-card-output/tokyonight/3-stats.svg" />
-  <img src="https://raw.githubusercontent.com/Spiritvoin/Spiritvoin/summary-cards/profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
+  <img src="https://raw.githubusercontent.com/Spiritvoin/Spiritvoin/main/profile-summary-card-output/tokyonight/3-stats.svg" />
+  <img src="https://raw.githubusercontent.com/Spiritvoin/Spiritvoin/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Spiritvoin/Spiritvoin/summary-cards/profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
-  <img src="https://raw.githubusercontent.com/Spiritvoin/Spiritvoin/summary-cards/profile-summary-card-output/tokyonight/4-productive-time.svg" />
+  <img src="https://raw.githubusercontent.com/Spiritvoin/Spiritvoin/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
+  <img src="https://raw.githubusercontent.com/Spiritvoin/Spiritvoin/main/profile-summary-card-output/tokyonight/4-productive-time.svg" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Spiritvoin&theme=tokyonight" />
