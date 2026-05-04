@@ -43,14 +43,8 @@ I specialize in the full development lifecycle—from initial architectural plan
 
 ---
 
-### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ТВІЙ_НІКНЕЙМ&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ТВІЙ_НІКНЕЙМ&layout=compact&theme=radical)
-
----
-
 ### 📫 How to reach me:
-*   **LinkedIn:** [[Твоє посилання]](https://www.linkedin.com/in/serhii-korkishko-8a3a2048/)
+*   **LinkedIn:** [profile](https://www.linkedin.com/in/serhii-korkishko-8a3a2048/)
 *   **Email:** [sergey.korkishko@sigmalion.com.ua]
 *   **Portfolio / Website** [https://sigmalion.com.ua/]
 
