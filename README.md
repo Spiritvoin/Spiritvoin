@@ -51,8 +51,15 @@ I specialize in the full development lifecycle — from initial architectural pl
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Spiritvoin&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spiritvoin&layout=compact&theme=tokyonight" />
+  <img src="https://raw.githubusercontent.com/Spiritvoin/Spiritvoin/summary-cards/profile-summary-card-output/tokyonight/0-profile-details.svg" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Spiritvoin/Spiritvoin/summary-cards/profile-summary-card-output/tokyonight/3-stats.svg" />
+  <img src="https://raw.githubusercontent.com/Spiritvoin/Spiritvoin/summary-cards/profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Spiritvoin/Spiritvoin/summary-cards/profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
+  <img src="https://raw.githubusercontent.com/Spiritvoin/Spiritvoin/summary-cards/profile-summary-card-output/tokyonight/4-productive-time.svg" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Spiritvoin&theme=tokyonight" />
