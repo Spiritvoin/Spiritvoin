@@ -1,5 +1,5 @@
 # Hi there, I'm Serhii 👋
-## Senior Full Stack Developer | Software Architect | Tech Lead
+## Senior Full Stack Developer
 
 I am a **Senior Full Stack Developer with over 14 years of experience** in architecting and building robust web applications. My professional journey has evolved from deep-rooted expertise to designing complex, modern platforms using **React, TypeScript, and Node.js**.
 
