@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Serhii%20Korkishko&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Full%20Stack%20Developer&descAlignY=58&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Serhii%20Korkishko&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Full-Stack%20%7C%20Anti-Crisis%20Squad%20%7C%20UI%20%26%20Delivery%20Expert&descAlignY=58&descSize=14" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Serhii+%F0%9F%91%8B;Senior+Full+Stack+Developer;14%2B+years+of+experience;React+%7C+TypeScript+%7C+Node.js" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Serhii+%F0%9F%91%8B;Senior+Full-Stack+Developer;Anti-Crisis+Squad+%7C+UI+%26+Delivery+Expert;14%2B+years+of+expertise;React+18+%7C+Tailwind+%7C+Vite" />
   </a>
 </p>
 
@@ -15,12 +15,9 @@
 ---
 
 ### 📋 Summary
-Senior Full Stack Developer with **14+ years of experience** architecting and building robust web applications. My professional journey has evolved from deep-rooted expertise to designing complex, modern platforms using **React, TypeScript, and Node.js**.
+Senior Full-Stack Developer with **14+ years of expertise** architecting robust UI systems and optimizing development lifecycles. Within our **Anti-Crisis Squad**, I focus on the intersection of user experience and engineering efficiency.
 
-I specialize in the full development lifecycle — from initial architectural planning to deploying seamless **CI/CD pipelines (Azure DevOps)**. My background is a unique blend of long-term product stability and high-impact contract roles where I've integrated advanced features like real-time **WebSocket** communication, sophisticated rich-text editors (**CKEditor5**), and complex UI systems using **Material UI**.
-
-*   **Leadership:** Mentoring engineering teams and driving technical excellence.
-*   **Specialized Expertise:** Real-time data with **WebSockets**, complex **CKEditor5** integrations, and sophisticated UI systems with **Material UI**.
+I specialize in creating scalable UI component libraries and ensuring high-performance page delivery through advanced optimization. By integrating modern AI tools (**Claude Code**) and streamlining **CI/CD pipelines**, I help the team maintain high velocity and deliver production-ready features at record speed.
 
 ---
 
@@ -30,8 +27,8 @@ I specialize in the full development lifecycle — from initial architectural pl
   <tr>
     <td><b>Frontend</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,materialui,tailwind" alt="React, Next.js, TypeScript, JavaScript, Redux, Material UI, Tailwind CSS" /><br/>
-      <sub>React · Next.js · TypeScript · JavaScript · Redux · Material UI · Tailwind</sub>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,vite,tailwind,materialui,redux" alt="React, Next.js, TypeScript, JavaScript, Vite, Tailwind CSS, Material UI, Redux" /><br/>
+      <sub>React 18 · Next.js · TypeScript · Vite · Tailwind · Shadcn/ui · Radix UI · Material UI · Redux</sub>
     </td>
   </tr>
   <tr>
@@ -59,22 +56,19 @@ I specialize in the full development lifecycle — from initial architectural pl
 
 ---
 
-### 🎯 Core Expertise & Strategic Focus
+### 🎯 Engineering Focus
 
-**Strategic & Architectural**
-*   **Architectural Planning:** Designing scalable and maintainable web systems that handle growth without technical debt.
-*   **SDLC & Delivery:** Optimizing development lifecycles and CI/CD pipelines (Azure DevOps).
-*   **Leadership:** Mentoring engineering teams and driving technical excellence.
+**UI/UX Architecture**
+*   Scalable design systems with **Shadcn/ui** and **Radix UI**.
+*   Reusable, accessible UI component libraries.
 
-**Modern Frontend**
-*   **Expertise:** React, TypeScript, JavaScript.
-*   **UI/UX:** Material UI, responsive design, complex state management.
-*   **Specialized:** Real-time data with WebSockets, CKEditor5 integration.
+**Performance & SDLC**
+*   Component optimization, lazy-loading, and code splitting.
+*   Automated **CI/CD** delivery pipelines for fast, reliable shipping.
 
-**Scalable Backend & Databases**
-*   **Backend:** Node.js, Express.
-*   **Databases:** PostgreSQL, MongoDB, MySQL.
-*   **Integrations:** REST APIs and complex third-party service connections.
+**Modern Tooling**
+*   **React 18**, **Tailwind CSS**, **Vite**.
+*   AI-assisted development with **Claude Code**.
 
 ---
 
