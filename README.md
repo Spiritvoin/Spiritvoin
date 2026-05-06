@@ -15,7 +15,9 @@
 ---
 
 ### 📋 Summary
-I specialize in the full development lifecycle — from initial architectural planning to deploying seamless **CI/CD pipelines (Azure DevOps)**. My background is a unique blend of long-term product stability and high-impact contract roles.
+Senior Full Stack Developer with **14+ years of experience** architecting and building robust web applications. My professional journey has evolved from deep-rooted expertise to designing complex, modern platforms using **React, TypeScript, and Node.js**.
+
+I specialize in the full development lifecycle — from initial architectural planning to deploying seamless **CI/CD pipelines (Azure DevOps)**. My background is a unique blend of long-term product stability and high-impact contract roles where I've integrated advanced features like real-time **WebSocket** communication, sophisticated rich-text editors (**CKEditor5**), and complex UI systems using **Material UI**.
 
 *   **Leadership:** Mentoring engineering teams and driving technical excellence.
 *   **Specialized Expertise:** Real-time data with **WebSockets**, complex **CKEditor5** integrations, and sophisticated UI systems with **Material UI**.
@@ -24,6 +26,7 @@ I specialize in the full development lifecycle — from initial architectural pl
 
 ### 🛠️ Technical Stack
 
+**Frontend**
 <p align="center">
   <img src="https://cdn.simpleicons.org/react" height="48" title="React — UI library for component-based interfaces" />
   <img src="https://cdn.simpleicons.org/nextdotjs/000000/ffffff" height="48" title="Next.js — React framework with SSR, SSG and routing" />
@@ -32,11 +35,23 @@ I specialize in the full development lifecycle — from initial architectural pl
   <img src="https://cdn.simpleicons.org/redux" height="48" title="Redux — Predictable state container for JS apps" />
   <img src="https://cdn.simpleicons.org/mui" height="48" title="Material UI — React component library by Google design" />
   <img src="https://cdn.simpleicons.org/tailwindcss" height="48" title="Tailwind CSS — Utility-first CSS framework" />
+</p>
+
+**Backend**
+<p align="center">
   <img src="https://cdn.simpleicons.org/nodedotjs" height="48" title="Node.js — JavaScript runtime built on V8" />
   <img src="https://cdn.simpleicons.org/express/000000/ffffff" height="48" title="Express — Minimal and flexible Node.js web framework" />
+</p>
+
+**Databases**
+<p align="center">
   <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="48" title="PostgreSQL — Advanced open-source relational database" />
   <img src="https://cdn.simpleicons.org/mongodb" height="48" title="MongoDB — Document-oriented NoSQL database" />
   <img src="https://cdn.simpleicons.org/mysql" height="48" title="MySQL — Popular open-source relational database" />
+</p>
+
+**DevOps & Tools**
+<p align="center">
   <img src="https://cdn.simpleicons.org/docker" height="48" title="Docker — Containerization platform for portable apps" />
   <img src="https://skillicons.dev/icons?i=azure" height="48" title="Azure — Microsoft cloud and DevOps platform" />
   <img src="https://cdn.simpleicons.org/githubactions" height="48" title="GitHub Actions — CI/CD automation directly in GitHub" />
@@ -44,6 +59,32 @@ I specialize in the full development lifecycle — from initial architectural pl
   <img src="https://cdn.simpleicons.org/jest" height="48" title="Jest — Delightful JavaScript testing framework" />
   <img src="https://cdn.simpleicons.org/claude/D97757" height="48" title="Claude Code — Anthropic's official CLI for AI-assisted coding" />
 </p>
+
+---
+
+### 🎯 Core Expertise & Strategic Focus
+
+**Strategic & Architectural**
+*   **Architectural Planning:** Designing scalable and maintainable web systems that handle growth without technical debt.
+*   **SDLC & Delivery:** Optimizing development lifecycles and CI/CD pipelines (Azure DevOps).
+*   **Leadership:** Mentoring engineering teams and driving technical excellence.
+
+**Modern Frontend**
+*   **Expertise:** React, TypeScript, JavaScript.
+*   **UI/UX:** Material UI, responsive design, complex state management.
+*   **Specialized:** Real-time data with WebSockets, CKEditor5 integration.
+
+**Scalable Backend & Databases**
+*   **Backend:** Node.js, Express.
+*   **Databases:** PostgreSQL, MongoDB, MySQL.
+*   **Integrations:** REST APIs and complex third-party service connections.
+
+---
+
+### 📫 How to reach me:
+*   **LinkedIn:** [profile](https://www.linkedin.com/in/serhii-korkishko-8a3a2048/)
+*   **Email:** [sergey.korkishko@sigmalion.com.ua](mailto:sergey.korkishko@sigmalion.com.ua)
+*   **Portfolio / Website:** [https://sigmalion.io/](https://sigmalion.io/)
 
 ---
 
@@ -79,19 +120,3 @@ I specialize in the full development lifecycle — from initial architectural pl
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Spiritvoin&theme=tokyonight&no-frame=true&row=1" />
 </p>
-
----
-
-### 🎯 Core Expertise & Strategic Focus
-
-*   **Architectural Planning:** Building systems that handle growth without technical debt.
-*   **SDLC & Delivery:** Optimizing development lifecycles for maximum efficiency.
-*   **Modern Frontend:** Responsive design, complex state management, and real-time interactivity.
-*   **Integrations:** REST APIs and complex third-party service connections.
-
----
-
-### 📫 How to reach me:
-*   **LinkedIn:** [profile](https://www.linkedin.com/in/serhii-korkishko-8a3a2048/)
-*   **Email:** [sergey.korkishko@sigmalion.com.ua](mailto:sergey.korkishko@sigmalion.com.ua)
-*   **Portfolio / Website:** [https://sigmalion.io/](https://sigmalion.io/)
