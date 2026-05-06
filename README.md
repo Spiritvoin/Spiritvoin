@@ -26,39 +26,46 @@ I specialize in the full development lifecycle — from initial architectural pl
 
 ### 🛠️ Technical Stack
 
-**Frontend**
-<p align="center">
-  <img src="https://cdn.simpleicons.org/react" height="48" title="React — UI library for component-based interfaces" />
-  <img src="https://cdn.simpleicons.org/nextdotjs/000000/ffffff" height="48" title="Next.js — React framework with SSR, SSG and routing" />
-  <img src="https://cdn.simpleicons.org/typescript" height="48" title="TypeScript — Strongly typed superset of JavaScript" />
-  <img src="https://cdn.simpleicons.org/javascript" height="48" title="JavaScript — Core programming language of the web" />
-  <img src="https://cdn.simpleicons.org/redux" height="48" title="Redux — Predictable state container for JS apps" />
-  <img src="https://cdn.simpleicons.org/mui" height="48" title="Material UI — React component library by Google design" />
-  <img src="https://cdn.simpleicons.org/tailwindcss" height="48" title="Tailwind CSS — Utility-first CSS framework" />
-</p>
-
-**Backend**
-<p align="center">
-  <img src="https://cdn.simpleicons.org/nodedotjs" height="48" title="Node.js — JavaScript runtime built on V8" />
-  <img src="https://cdn.simpleicons.org/express/000000/ffffff" height="48" title="Express — Minimal and flexible Node.js web framework" />
-</p>
-
-**Databases**
-<p align="center">
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="48" title="PostgreSQL — Advanced open-source relational database" />
-  <img src="https://cdn.simpleicons.org/mongodb" height="48" title="MongoDB — Document-oriented NoSQL database" />
-  <img src="https://cdn.simpleicons.org/mysql" height="48" title="MySQL — Popular open-source relational database" />
-</p>
-
-**DevOps & Tools**
-<p align="center">
-  <img src="https://cdn.simpleicons.org/docker" height="48" title="Docker — Containerization platform for portable apps" />
-  <img src="https://skillicons.dev/icons?i=azure" height="48" title="Azure — Microsoft cloud and DevOps platform" />
-  <img src="https://cdn.simpleicons.org/githubactions" height="48" title="GitHub Actions — CI/CD automation directly in GitHub" />
-  <img src="https://cdn.simpleicons.org/git" height="48" title="Git — Distributed version control system" />
-  <img src="https://cdn.simpleicons.org/jest" height="48" title="Jest — Delightful JavaScript testing framework" />
-  <img src="https://cdn.simpleicons.org/claude/D97757" height="48" title="Claude Code — Anthropic's official CLI for AI-assisted coding" />
-</p>
+<table>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>
+      <img src="https://cdn.simpleicons.org/react" height="40" title="React — UI library for component-based interfaces" />
+      <img src="https://cdn.simpleicons.org/nextdotjs/000000/ffffff" height="40" title="Next.js — React framework with SSR, SSG and routing" />
+      <img src="https://cdn.simpleicons.org/typescript" height="40" title="TypeScript — Strongly typed superset of JavaScript" />
+      <img src="https://cdn.simpleicons.org/javascript" height="40" title="JavaScript — Core programming language of the web" />
+      <img src="https://cdn.simpleicons.org/redux" height="40" title="Redux — Predictable state container for JS apps" />
+      <img src="https://cdn.simpleicons.org/mui" height="40" title="Material UI — React component library by Google design" />
+      <img src="https://cdn.simpleicons.org/tailwindcss" height="40" title="Tailwind CSS — Utility-first CSS framework" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>
+      <img src="https://cdn.simpleicons.org/nodedotjs" height="40" title="Node.js — JavaScript runtime built on V8" />
+      <img src="https://cdn.simpleicons.org/express/000000/ffffff" height="40" title="Express — Minimal and flexible Node.js web framework" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Databases</b></td>
+    <td>
+      <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" title="PostgreSQL — Advanced open-source relational database" />
+      <img src="https://cdn.simpleicons.org/mongodb" height="40" title="MongoDB — Document-oriented NoSQL database" />
+      <img src="https://cdn.simpleicons.org/mysql" height="40" title="MySQL — Popular open-source relational database" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>DevOps &amp; Tools</b></td>
+    <td>
+      <img src="https://cdn.simpleicons.org/docker" height="40" title="Docker — Containerization platform for portable apps" />
+      <img src="https://skillicons.dev/icons?i=azure" height="40" title="Azure — Microsoft cloud and DevOps platform" />
+      <img src="https://cdn.simpleicons.org/githubactions" height="40" title="GitHub Actions — CI/CD automation directly in GitHub" />
+      <img src="https://cdn.simpleicons.org/git" height="40" title="Git — Distributed version control system" />
+      <img src="https://cdn.simpleicons.org/jest" height="40" title="Jest — Delightful JavaScript testing framework" />
+      <img src="https://cdn.simpleicons.org/claude/D97757" height="40" title="Claude Code — Anthropic's official CLI for AI-assisted coding" />
+    </td>
+  </tr>
+</table>
 
 ---
 
