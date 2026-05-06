@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Serhii%20Korkishko&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Full-Stack%20%7C%20Anti-Crisis%20Squad%20%7C%20UI%20%26%20Delivery%20Expert&descAlignY=58&descSize=14" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Serhii%20Korkishko&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Full-Stack%20Developer&descAlignY=58&descSize=18" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Serhii+%F0%9F%91%8B;Senior+Full-Stack+Developer;Anti-Crisis+Squad+%7C+UI+%26+Delivery+Expert;14%2B+years+of+expertise;React+18+%7C+Tailwind+%7C+Vite" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Serhii+%F0%9F%91%8B;Senior+Full-Stack+Developer;Anti-Crisis+Squad+%7C+UI+and+Delivery+Expert;14%2B+years+of+expertise;React+18+%7C+Tailwind+%7C+Vite" />
   </a>
 </p>
 
@@ -25,31 +25,89 @@ I specialize in creating scalable UI component libraries and ensuring high-perfo
 
 <table>
   <tr>
-    <td><b>Frontend</b></td>
+    <td valign="middle"><b>Frontend</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,vite,tailwind,materialui,redux" alt="React, Next.js, TypeScript, JavaScript, Vite, Tailwind CSS, Material UI, Redux" /><br/>
-      <sub>React 18 · Next.js · TypeScript · Vite · Tailwind · Shadcn/ui · Radix UI · Material UI · Redux</sub>
+      <table>
+        <tr>
+          <td align="center"><img src="https://cdn.simpleicons.org/react" width="40" height="40" alt="React" /></td>
+          <td align="center"><img src="https://cdn.simpleicons.org/nextdotjs/000000/ffffff" width="40" height="40" alt="Next.js" /></td>
+          <td align="center"><img src="https://cdn.simpleicons.org/typescript" width="40" height="40" alt="TypeScript" /></td>
+          <td align="center"><img src="https://cdn.simpleicons.org/javascript" width="40" height="40" alt="JavaScript" /></td>
+          <td align="center"><img src="https://cdn.simpleicons.org/vite" width="40" height="40" alt="Vite" /></td>
+          <td align="center"><img src="https://cdn.simpleicons.org/tailwindcss" width="40" height="40" alt="Tailwind CSS" /></td>
+          <td align="center"><img src="https://cdn.simpleicons.org/shadcnui" width="40" height="40" alt="Shadcn/ui" /></td>
+          <td align="center"><img src="https://cdn.simpleicons.org/radixui" width="40" height="40" alt="Radix UI" /></td>
+          <td align="center"><img src="https://cdn.simpleicons.org/mui" width="40" height="40" alt="Material UI" /></td>
+          <td align="center"><img src="https://cdn.simpleicons.org/redux" width="40" height="40" alt="Redux" /></td>
+        </tr>
+        <tr>
+          <td align="center"><sub>React 18</sub></td>
+          <td align="center"><sub>Next.js</sub></td>
+          <td align="center"><sub>TypeScript</sub></td>
+          <td align="center"><sub>JavaScript</sub></td>
+          <td align="center"><sub>Vite</sub></td>
+          <td align="center"><sub>Tailwind</sub></td>
+          <td align="center"><sub>Shadcn/ui</sub></td>
+          <td align="center"><sub>Radix UI</sub></td>
+          <td align="center"><sub>Material UI</sub></td>
+          <td align="center"><sub>Redux</sub></td>
+        </tr>
+      </table>
     </td>
   </tr>
   <tr>
-    <td><b>Backend</b></td>
+    <td valign="middle"><b>Backend</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=nodejs,expressjs" alt="Node.js, Express" /><br/>
-      <sub>Node.js · Express</sub>
+      <table>
+        <tr>
+          <td align="center"><img src="https://cdn.simpleicons.org/nodedotjs" width="40" height="40" alt="Node.js" /></td>
+          <td align="center"><img src="https://cdn.simpleicons.org/express/000000/ffffff" width="40" height="40" alt="Express" /></td>
+        </tr>
+        <tr>
+          <td align="center"><sub>Node.js</sub></td>
+          <td align="center"><sub>Express</sub></td>
+        </tr>
+      </table>
     </td>
   </tr>
   <tr>
-    <td><b>Databases</b></td>
+    <td valign="middle"><b>Databases</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" alt="PostgreSQL, MongoDB, MySQL" /><br/>
-      <sub>PostgreSQL · MongoDB · MySQL</sub>
+      <table>
+        <tr>
+          <td align="center"><img src="https://cdn.simpleicons.org/postgresql/4169E1" width="40" height="40" alt="PostgreSQL" /></td>
+          <td align="center"><img src="https://cdn.simpleicons.org/mongodb" width="40" height="40" alt="MongoDB" /></td>
+          <td align="center"><img src="https://cdn.simpleicons.org/mysql" width="40" height="40" alt="MySQL" /></td>
+        </tr>
+        <tr>
+          <td align="center"><sub>PostgreSQL</sub></td>
+          <td align="center"><sub>MongoDB</sub></td>
+          <td align="center"><sub>MySQL</sub></td>
+        </tr>
+      </table>
     </td>
   </tr>
   <tr>
-    <td><b>DevOps &amp; Tools</b></td>
+    <td valign="middle"><b>DevOps &amp; Tools</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=docker,azure,githubactions,git,jest" alt="Docker, Azure, GitHub Actions, Git, Jest" /><br/>
-      <sub>Docker · Azure · GitHub Actions · Git · Jest · Claude Code</sub>
+      <table>
+        <tr>
+          <td align="center"><img src="https://cdn.simpleicons.org/docker" width="40" height="40" alt="Docker" /></td>
+          <td align="center"><img src="https://cdn.simpleicons.org/microsoftazure" width="40" height="40" alt="Azure" /></td>
+          <td align="center"><img src="https://cdn.simpleicons.org/githubactions" width="40" height="40" alt="GitHub Actions" /></td>
+          <td align="center"><img src="https://cdn.simpleicons.org/git" width="40" height="40" alt="Git" /></td>
+          <td align="center"><img src="https://cdn.simpleicons.org/jest" width="40" height="40" alt="Jest" /></td>
+          <td align="center"><img src="https://cdn.simpleicons.org/claude/D97757" width="40" height="40" alt="Claude Code" /></td>
+        </tr>
+        <tr>
+          <td align="center"><sub>Docker</sub></td>
+          <td align="center"><sub>Azure</sub></td>
+          <td align="center"><sub>GH Actions</sub></td>
+          <td align="center"><sub>Git</sub></td>
+          <td align="center"><sub>Jest</sub></td>
+          <td align="center"><sub>Claude Code</sub></td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
