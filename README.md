@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Serhii%20Korkishko&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Full-Stack%20Developer&descAlignY=58&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Serhii%20Korkishko&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Full-Stack%20Developer%20%7C%20Anti-Crisis%20Squad&descAlignY=58&descSize=18" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Serhii+%F0%9F%91%8B;Senior+Full-Stack+Developer;Anti-Crisis+Squad+%7C+UI+and+Delivery+Expert;14%2B+years+of+expertise;React+18+%7C+Tailwind+%7C+Vite" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=14%2B+years+of+expertise" />
   </a>
 </p>
 
