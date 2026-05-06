@@ -29,19 +29,31 @@ I specialize in the full development lifecycle — from initial architectural pl
 <table>
   <tr>
     <td><b>Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,materialui,tailwind" alt="React, Next.js, TypeScript, JavaScript, Redux, Material UI, Tailwind CSS" /></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,materialui,tailwind" alt="React, Next.js, TypeScript, JavaScript, Redux, Material UI, Tailwind CSS" /><br/>
+      <sub>React · Next.js · TypeScript · JavaScript · Redux · Material UI · Tailwind</sub>
+    </td>
   </tr>
   <tr>
     <td><b>Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,expressjs" alt="Node.js, Express" /></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,expressjs" alt="Node.js, Express" /><br/>
+      <sub>Node.js · Express</sub>
+    </td>
   </tr>
   <tr>
     <td><b>Databases</b></td>
-    <td><img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" alt="PostgreSQL, MongoDB, MySQL" /></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" alt="PostgreSQL, MongoDB, MySQL" /><br/>
+      <sub>PostgreSQL · MongoDB · MySQL</sub>
+    </td>
   </tr>
   <tr>
     <td><b>DevOps &amp; Tools</b></td>
-    <td><img src="https://skillicons.dev/icons?i=docker,azure,githubactions,git,jest" alt="Docker, Azure, GitHub Actions, Git, Jest" /></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=docker,azure,githubactions,git,jest" alt="Docker, Azure, GitHub Actions, Git, Jest" /><br/>
+      <sub>Docker · Azure · GitHub Actions · Git · Jest · Claude Code</sub>
+    </td>
   </tr>
 </table>
 
@@ -73,35 +85,8 @@ I specialize in the full development lifecycle — from initial architectural pl
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Spiritvoin/Spiritvoin/main/profile-summary-card-output/tokyonight/0-profile-details.svg" />
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Spiritvoin/Spiritvoin/main/profile-summary-card-output/tokyonight/3-stats.svg" />
-  <img src="https://raw.githubusercontent.com/Spiritvoin/Spiritvoin/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Spiritvoin/Spiritvoin/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
-  <img src="https://raw.githubusercontent.com/Spiritvoin/Spiritvoin/main/profile-summary-card-output/tokyonight/4-productive-time.svg" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Spiritvoin&theme=tokyonight" />
-</p>
-
----
-
 ### 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Spiritvoin/Spiritvoin/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Spiritvoin&theme=tokyonight&no-frame=true&row=1" />
 </p>
