@@ -132,7 +132,7 @@ I specialize in creating scalable UI component libraries and ensuring high-perfo
 
 ### 📫 How to reach me:
 *   **LinkedIn:** [profile](https://www.linkedin.com/in/serhii-korkishko-8a3a2048/)
-*   **Email:** [sergey.korkishko@sigmalion.com.ua](mailto:sergey.korkishko@sigmalion.com.ua)
+*   **Email:** [sergey.korkishko@sigmalion.io](mailto:sergey.korkishko@sigmalion.io)
 *   **Portfolio / Website:** [https://sigmalion.io/](https://sigmalion.io/)
 
 ---
